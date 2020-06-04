@@ -6,7 +6,7 @@ VRM All BlendShape Checker
 
 ## Requirements
 
-Import [UniVRM v0.5.0](https://github.com/vrm-c/UniVRM/releases)
+Import [UniVRM v0.55.0](https://github.com/vrm-c/UniVRM/releases)
 - UniVRM-0.55.0_ce1c.unitypackage
 - UniVRM-samples-0.55.0_ce1c.unitypackage  
 
