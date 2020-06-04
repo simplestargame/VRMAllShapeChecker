@@ -78,10 +78,10 @@ namespace SimplestarGame
 					}
 					skinnedMeshRenderer.SetBlendShapeWeight(blendShapeIndex, 100);
 					yield return new WaitForSeconds(1.0f);
-					if (blendShapeCount - 1 == blendShapeIndex)
-					{
-						skinnedMeshRenderer.SetBlendShapeWeight(blendShapeIndex, 0);
-					}
+				}
+				if (0 < blendShapeCount)
+				{
+					skinnedMeshRenderer.SetBlendShapeWeight(blendShapeCount - 1, 0);
 				}
 			}
 			director.Stop();
