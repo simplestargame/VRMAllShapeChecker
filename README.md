@@ -1,6 +1,7 @@
 # VRMAllShapeChecker
 
-VRM All BlendShape Checker
+VRM All BlendShape Checker  
+To allow non-engineers to determine if an unwanted shape is embedded in the VRM file.
 
 ![image](readme/main.jpg)
 
@@ -17,10 +18,10 @@ Import TextMesh Pro.
 Open SimplestarGame>VRMAllShapeChecker>Scenes
 - SampleScene  
 
-Play on Unity Editor (This tool only work on Editor! because Unity Recorder is used.)
+Play on Unity Editor (This tool only work on Editor! Because Unity Recorder is used.)
 
-Push "Open VRM" button and select check target vrm file.
+Push "Open VRM" button and select a check target vrm file.
 
 ## Result
 
-You will find the RecResult/VRMShapeCheckResult_2020-06-04_filename.mp4
+You will find a RecResult/VRMShapeCheckResult_2020-06-04_filename.mp4
